@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UnrealCSV",
+	"Description": "Unreal CSV Reader",
+	"Category": "Other",
+	"CreatedBy": "REUS",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "UnrealCSV",
+			"Type": "Developer",
+			"LoadingPhase": "Default"
+		}
+	]
+}
